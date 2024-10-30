@@ -1,0 +1,28 @@
+@charset "utf-8";
+#dicas {
+    background-color: #D5955E;
+    background-size: 0px auto;
+}
+#CACHORRO {
+    position: absolute;
+
+}
+#CAVALO  {
+    position: absolute;
+    height: 172px;
+    left: 490px;
+    top: 61px;
+    width: 169px;
+}
+#cavalos {
+    position: absolute;
+    left: 448px;
+    top: 247px;
+    width: 42px;
+}
+#button {
+    position: absolute;
+    top: 316px;
+    left: 9px;
+    background-color: #D5955E;
+}
